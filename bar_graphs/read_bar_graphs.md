@@ -1,18 +1,15 @@
 # Вы находитесь в директории содержащей 3 модуля для построения Столбчатых диаграмм с использованием библиотек Matplotlib, Seaborn и Plotly
 ## Для построения столбчатых диаграмм использован файл data_mun_demography_123_v20240612.csv.csv содержащий общие сведения о численности населения РФ, показателях рождаемости, смертности и миграции:
-![image](https://github.com/user-attachments/assets/a81de0ac-66c1-4c9f-b078-3c62a207eda0)
-
+![image](https://github.com/user-attachments/assets/9ea41871-c46b-443c-85fe-197fce78ff95)
+## для всех графиков создан датафрейм df = pd.read_csv('data_mun_demography_123_v20240612.csv', sep=';', )
+## и переменные со значениями столбцов, - a = df['year'], b = df['population'], c = df['deaths'], d = df['births'], e = df['migration']
 ## Для фиксации времени задействован модуль time
 # Matplotlib
-### код оформлен в объектно-ориентированном стиле, импортированы библиотеки matplotlib.pyplot, numpy, time. 
-### Функция х возвращает синус переменной t с входными значениями np.linspace(старт 0, число 6*Пи, количество элементов в выходном массиве 100)
-### Функция y возвращает косинус переменной t
-### Функция z возвращает саму переменную t 
-### переменные для построения графика x_vals = x(t), y_vals = y(t), z_vals = z(t)
-### Создание каркаса фигуры fig = plt.figure()
-### элементы Axes ax = fig.add_subplot(111, projection='3d',). для построения модели в ax.plot переданы полученные переменные
-### Так же добавлены цветовые параметры осей и название графика
-## [посмотреть код Matplotlib](https://github.com/AlexandrKuznetsov1/DegreeProject/blob/master/3D_models/3D_models_PLT.py)____>>>>____[посмотреть реузльтат](https://github.com/AlexandrKuznetsov1/DegreeProject/blob/master/graphics/3D%20график%20PLT.png)
+### импортированы библиотеки matplotlib.pyplot, pandas, time. 
+### Создание каркаса фигуры plt.figure(figsize=(8, 5.5), )
+### для передачи координат по осям использован метод plt.bar
+### Так же добавлены названия осей и графика
+## [посмотреть код Matplotlib]()____>>>>____[посмотреть реузльтат](https://github.com/AlexandrKuznetsov1/DegreeProject/blob/master/graphics/3D%20график%20PLT.png)
 ![image](https://github.com/user-attachments/assets/61a7e734-1550-4541-88e2-8738d65fe979)
 _____________________________________________________________________________________________________________________________________________________________________________________________________________ 
 # Seaborn
