@@ -7,7 +7,7 @@
 # Matplotlib
 ### импортированы библиотеки matplotlib.pyplot, pandas, time. 
 ### Создание каркаса фигуры plt.figure(figsize=(8, 5.5), )
-### для передачи координат по осям использован метод plt.bar
+### для передачи координат по осям использована функция plt.bar
 ### Так же добавлены названия осей и графика
 ## [посмотреть код Matplotlib](https://github.com/AlexandrKuznetsov1/DegreeProject/blob/master/bar_graphs/bar_graphs_PLT.py)____>>>>____[посмотреть реузльтат](https://github.com/AlexandrKuznetsov1/DegreeProject/blob/master/graphics/Столбчатая%20диаграмма%20PLT.png)
 ![image](https://github.com/user-attachments/assets/294e0908-7d9d-4d50-9aa8-7646bd936542)
@@ -15,11 +15,10 @@
 ___________________________________________________________________________________________________________________________________________________________________________________________________________
 # Seaborn
 ### импортированы библиотеки matplotlib.pyplot, numpy, time. 
-### для полученияя переменных по координате z сщзданы переменные plt_omega = 2 и plt1 = np.linspace(старт 0, стоп 10, количество элементов в выходном массиве 100) 
-### переменные для построения графика x_vals = x(t), y_vals = y(t), z_vals = z(t)
-### Создание каркаса фигуры plt.figure(figsize=(6, 5))
-### элементы Axes plt_axis = plt.axes(projection='3d'). для построения модели в ax.plot переданы полученные переменные
-## [посмотреть код Seaborn](https://github.com/AlexandrKuznetsov1/DegreeProject/blob/master/3D_models/3D_models_SNS.py)____>>>>____[посмотреть реузльтат](https://github.com/AlexandrKuznetsov1/DegreeProject/blob/master/graphics/3D%20график%20SNS.png)
+### Создание каркаса фигуры sb = sns.barplot(data=df, x="year", y="deaths",)
+### для передачи координат по осям использована функция sns.barplot
+### Так же добавлены названия осей и графика
+## [посмотреть код Seaborn]()____>>>>____[посмотреть реузльтат](https://github.com/AlexandrKuznetsov1/DegreeProject/blob/master/graphics/3D%20график%20SNS.png)
 ![image](https://github.com/user-attachments/assets/923e029d-7256-4ffd-9074-6667fff4e950)
 ___________________________________________________________________________________________________________________________________________________________________________________________________________
 # Plotly
