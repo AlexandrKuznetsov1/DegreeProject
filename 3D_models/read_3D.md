@@ -29,5 +29,5 @@ ________________________________________________________________________________
 ### переменные для построения графика x, y, z = np.cos(t), np.sin(t), t
 ### Создание фигуры с параметрами fig = go.Figure(data=[go.Scatter3d(x=x, y=y, z=z, mode='markers', marker=dict(size=12, color=z, colorscale='Viridis', opacity=0.8,),),],)
 ### элементы Axes plt_axis = plt.axes(projection='3d'). для построения модели в ax.plot переданы полученные переменные
-## [посмотреть код Plotly]()____>>>>____[посмотреть реузльтат](https://github.com/AlexandrKuznetsov1/DegreeProject/blob/master/graphics/3D%20график%20SNS.png)
+## [посмотреть код Plotly](https://github.com/AlexandrKuznetsov1/DegreeProject/blob/master/3D_models/3D_models_PX.py)____>>>>____[посмотреть реузльтат]()
 ![image](https://github.com/user-attachments/assets/923e029d-7256-4ffd-9074-6667fff4e950)
