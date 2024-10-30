@@ -9,8 +9,8 @@
 ### Создание каркаса фигуры fig, ax = plt.subplots(figsize=(8, 5.5), layout='constrained', )
 ### для передачи координат по осям использована функция ax.plot
 ### Так же добавлены названия осей и графика с использованием ax.set
-## [посмотреть код Matplotlib](https://github.com/AlexandrKuznetsov1/DegreeProject/blob/master/line_graphs/line_graphs_PLT.py)____>>>>____[посмотреть реузльтат]()
-![image](https://github.com/user-attachments/assets/294e0908-7d9d-4d50-9aa8-7646bd936542)
+## [посмотреть код Matplotlib](https://github.com/AlexandrKuznetsov1/DegreeProject/blob/master/line_graphs/line_graphs_PLT.py)____>>>>____[посмотреть реузльтат](https://github.com/AlexandrKuznetsov1/DegreeProject/blob/master/graphics/Линейный%20график%20PLT.png)
+![image](https://github.com/user-attachments/assets/6790eb18-d839-44d1-980e-44c3a7aee6d0)
 
 ___________________________________________________________________________________________________________________________________________________________________________________________________________
 # Seaborn
