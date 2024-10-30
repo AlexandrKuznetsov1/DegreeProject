@@ -8,7 +8,7 @@
 ### импортированы библиотеки matplotlib.pyplot, pandas, time. 
 ### Создание каркаса фигуры plt.subplots(figsize=(8, 5.5), )
 ### для построения диаграммы использована функция df[df.columns[1:]].sum().plot.pie () с параметрами сдвигов, цветов, значений
-## [посмотреть код Matplotlib]()____>>>>____[посмотреть реузльтат](https://github.com/AlexandrKuznetsov1/DegreeProject/blob/master/graphics/Линейный%20график%20PLT.png)
+## [посмотреть код Matplotlib](https://github.com/AlexandrKuznetsov1/DegreeProject/blob/master/pie_charts/pie_chart_PLT.py)____>>>>____[посмотреть реузльтат]()
 ![image](https://github.com/user-attachments/assets/6790eb18-d839-44d1-980e-44c3a7aee6d0)
 
 ___________________________________________________________________________________________________________________________________________________________________________________________________________
