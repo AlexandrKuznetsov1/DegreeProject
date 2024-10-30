@@ -15,8 +15,8 @@ ________________________________________________________________________________
 # Seaborn
 ### импортированы библиотеки matplotlib.pyplot, pandas, seaborn, time. 
 ### график создается с использованием функции plt.pie () с параметрами, в качестве основного аргумента data
-## [посмотреть код Seaborn]()____>>>>____[посмотреть реузльтат](https://github.com/AlexandrKuznetsov1/DegreeProject/blob/master/graphics/Линейный%20график%20SNS.png)
-![image](https://github.com/user-attachments/assets/77644441-63f6-4b8f-8b1d-6c2570ac1dcb)
+## [посмотреть код Seaborn](https://github.com/AlexandrKuznetsov1/DegreeProject/blob/master/pie_charts/pie_chart_SNS.py)____>>>>____[посмотреть реузльтат]()
+
 
 ___________________________________________________________________________________________________________________________________________________________________________________________________________
 # Plotly
