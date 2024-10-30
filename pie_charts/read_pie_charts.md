@@ -15,15 +15,16 @@ ________________________________________________________________________________
 # Seaborn
 ### импортированы библиотеки matplotlib.pyplot, pandas, seaborn, time. 
 ### график создается с использованием функции plt.pie () с параметрами, в качестве основного аргумента data
-## [посмотреть код Seaborn](https://github.com/AlexandrKuznetsov1/DegreeProject/blob/master/pie_charts/pie_chart_SNS.py)____>>>>____[посмотреть реузльтат]()
+## [посмотреть код Seaborn](https://github.com/AlexandrKuznetsov1/DegreeProject/blob/master/pie_charts/pie_chart_SNS.py)____>>>>____[посмотреть реузльтат](https://github.com/AlexandrKuznetsov1/DegreeProject/blob/master/graphics/Круговая%20диаграмма%20SNS.png)
+![image](https://github.com/user-attachments/assets/53ef4cfb-9a92-4b4a-9a0c-f49e5c3c39ff)
 
 
 ___________________________________________________________________________________________________________________________________________________________________________________________________________
 # Plotly
-### импортированы библиотеки plotly.express, pandas, time. 
+### импортированы библиотеки plotly.graph_objs, pandas, time. 
 ### Создание фигуры с использованием функции fig = go.Figure()
-### для установки параметров Названия графика, названий осей использован метод fig.update_layout
-## [посмотреть код Plotly](https://github.com/AlexandrKuznetsov1/DegreeProject/blob/master/line_graphs/line_graphs_PX.py)____>>>>____[посмотреть реузльтат](https://github.com/AlexandrKuznetsov1/DegreeProject/blob/master/graphics/Линейный%20график%20PX.png)
+### для установки параметров fig.add_trace(go.Pie())
+## [посмотреть код Plotly]()____>>>>____[посмотреть реузльтат](https://github.com/AlexandrKuznetsov1/DegreeProject/blob/master/graphics/Линейный%20график%20PX.png)
 ![image](https://github.com/user-attachments/assets/803a91d8-8fa0-42ca-b9a5-db2502a490cb)
 
 
