@@ -22,4 +22,12 @@ ________________________________________________________________________________
 ### элементы Axes plt_axis = plt.axes(projection='3d'). для построения модели в ax.plot переданы полученные переменные
 ## [посмотреть код Seaborn](https://github.com/AlexandrKuznetsov1/DegreeProject/blob/master/3D_models/3D_models_SNS.py)____>>>>____[посмотреть реузльтат](https://github.com/AlexandrKuznetsov1/DegreeProject/blob/master/graphics/3D%20график%20SNS.png)
 ![image](https://github.com/user-attachments/assets/923e029d-7256-4ffd-9074-6667fff4e950)
-
+___________________________________________________________________________________________________________________________________________________________________________________________________________
+# Plotly
+### импортированы библиотеки plotly.graph_objs, numpy, time. 
+### для полученияя переменных по координате z создана переменная t = np.linspace(старт 0, стоп 20, количество элементов в выходном массиве 100) 
+### переменные для построения графика x, y, z = np.cos(t), np.sin(t), t
+### Создание фигуры с параметрами fig = go.Figure(data=[go.Scatter3d(x=x, y=y, z=z, mode='markers', marker=dict(size=12, color=z, colorscale='Viridis', opacity=0.8,),),],)
+### элементы Axes plt_axis = plt.axes(projection='3d'). для построения модели в ax.plot переданы полученные переменные
+## [посмотреть код Plotly]()____>>>>____[посмотреть реузльтат](https://github.com/AlexandrKuznetsov1/DegreeProject/blob/master/graphics/3D%20график%20SNS.png)
+![image](https://github.com/user-attachments/assets/923e029d-7256-4ffd-9074-6667fff4e950)
