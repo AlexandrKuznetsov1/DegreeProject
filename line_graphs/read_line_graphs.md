@@ -17,14 +17,14 @@ ________________________________________________________________________________
 ### импортированы библиотеки matplotlib.pyplot, pandas, time. 
 ### график создается с помощью нескольких слоев sns.lineplot где в качестве аргументов передается сам датафрейм, в качестве значений координат столбцы
 ### Так же добавлены названия осей и графика, plt.title, plt.xlabel, plt.ylabel
-## [посмотреть код Seaborn](https://github.com/AlexandrKuznetsov1/DegreeProject/blob/master/line_graphs/line_graphs_SNS.py)____>>>>____[посмотреть реузльтат]()
+## [посмотреть код Seaborn](https://github.com/AlexandrKuznetsov1/DegreeProject/blob/master/line_graphs/line_graphs_SNS.py)____>>>>____[посмотреть реузльтат](https://github.com/AlexandrKuznetsov1/DegreeProject/blob/master/graphics/Линейный%20график%20SNS.png)
 ![image](https://github.com/user-attachments/assets/77644441-63f6-4b8f-8b1d-6c2570ac1dcb)
 
 ___________________________________________________________________________________________________________________________________________________________________________________________________________
 # Plotly
 ### импортированы библиотеки plotly.express, pandas, time. 
-### Создание фигуры с параметрами fig = px.bar(df, x=a, y=[c, d, e], template="simple_white",)
-### для передачи Названия графика, названий осей использован метод fig.update_layout
-## [посмотреть код Plotly](https://github.com/AlexandrKuznetsov1/DegreeProject/blob/master/bar_graphs/bar_graphs_PX.py)____>>>>____[посмотреть реузльтат](https://github.com/AlexandrKuznetsov1/DegreeProject/blob/master/graphics/Столбчатая%20диаграмма%20PX.png)
+### Создание фигуры с использованием функции fig = go.Figure()
+### для установки параметров Названия графика, названий осей использован метод fig.update_layout
+## [посмотреть код Plotly]()____>>>>____[посмотреть реузльтат](https://github.com/AlexandrKuznetsov1/DegreeProject/blob/master/graphics/Столбчатая%20диаграмма%20PX.png)
 ![image](https://github.com/user-attachments/assets/803a91d8-8fa0-42ca-b9a5-db2502a490cb)
 
