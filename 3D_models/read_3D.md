@@ -20,5 +20,5 @@ ________________________________________________________________________________
 ### переменные для построения графика x_vals = x(t), y_vals = y(t), z_vals = z(t)
 ### Создание каркаса фигуры plt.figure(figsize=(6, 5))
 ### элементы Axes plt_axis = plt.axes(projection='3d'). для построения модели в ax.plot переданы полученные переменные
-## [посмотреть код Seaborn]()____>>>>____[посмотреть реузльтат](https://github.com/AlexandrKuznetsov1/DegreeProject/blob/master/graphics/3D%20график%20PLT.png)
+## [посмотреть код Seaborn](https://github.com/AlexandrKuznetsov1/DegreeProject/blob/master/3D_models/3D_models_SNS.py)____>>>>____[посмотреть реузльтат]()
 ![image](https://github.com/user-attachments/assets/61a7e734-1550-4541-88e2-8738d65fe979)
