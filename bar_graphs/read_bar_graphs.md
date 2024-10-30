@@ -9,9 +9,10 @@
 ### Создание каркаса фигуры plt.figure(figsize=(8, 5.5), )
 ### для передачи координат по осям использован метод plt.bar
 ### Так же добавлены названия осей и графика
-## [посмотреть код Matplotlib](https://github.com/AlexandrKuznetsov1/DegreeProject/blob/master/bar_graphs/bar_graphs_PLT.py)____>>>>____[посмотреть реузльтат]()
-![image](https://github.com/user-attachments/assets/61a7e734-1550-4541-88e2-8738d65fe979)
-_____________________________________________________________________________________________________________________________________________________________________________________________________________ 
+## [посмотреть код Matplotlib](https://github.com/AlexandrKuznetsov1/DegreeProject/blob/master/bar_graphs/bar_graphs_PLT.py)____>>>>____[посмотреть реузльтат](https://github.com/AlexandrKuznetsov1/DegreeProject/blob/master/graphics/Столбчатая%20диаграмма%20PLT.png)
+![image](https://github.com/user-attachments/assets/294e0908-7d9d-4d50-9aa8-7646bd936542)
+
+___________________________________________________________________________________________________________________________________________________________________________________________________________
 # Seaborn
 ### импортированы библиотеки matplotlib.pyplot, numpy, time. 
 ### для полученияя переменных по координате z сщзданы переменные plt_omega = 2 и plt1 = np.linspace(старт 0, стоп 10, количество элементов в выходном массиве 100) 
