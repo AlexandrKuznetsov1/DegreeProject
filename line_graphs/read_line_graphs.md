@@ -25,6 +25,6 @@ ________________________________________________________________________________
 ### импортированы библиотеки plotly.express, pandas, time. 
 ### Создание фигуры с использованием функции fig = go.Figure()
 ### для установки параметров Названия графика, названий осей использован метод fig.update_layout
-## [посмотреть код Plotly](https://github.com/AlexandrKuznetsov1/DegreeProject/blob/master/line_graphs/line_graphs_PX.py)____>>>>____[посмотреть реузльтат]()
+## [посмотреть код Plotly](https://github.com/AlexandrKuznetsov1/DegreeProject/blob/master/line_graphs/line_graphs_PX.py)____>>>>____[посмотреть реузльтат](https://github.com/AlexandrKuznetsov1/DegreeProject/blob/master/graphics/Линейный%20график%20PX.png)
 ![image](https://github.com/user-attachments/assets/803a91d8-8fa0-42ca-b9a5-db2502a490cb)
 
