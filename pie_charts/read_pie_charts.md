@@ -8,15 +8,14 @@
 ### импортированы библиотеки matplotlib.pyplot, pandas, time. 
 ### Создание каркаса фигуры plt.subplots(figsize=(8, 5.5), )
 ### для построения диаграммы использована функция df[df.columns[1:]].sum().plot.pie () с параметрами сдвигов, цветов, значений
-## [посмотреть код Matplotlib](https://github.com/AlexandrKuznetsov1/DegreeProject/blob/master/pie_charts/pie_chart_PLT.py)____>>>>____[посмотреть реузльтат]()
-![image](https://github.com/user-attachments/assets/6790eb18-d839-44d1-980e-44c3a7aee6d0)
+## [посмотреть код Matplotlib](https://github.com/AlexandrKuznetsov1/DegreeProject/blob/master/pie_charts/pie_chart_PLT.py)____>>>>____[посмотреть реузльтат](https://github.com/AlexandrKuznetsov1/DegreeProject/blob/master/graphics/Круговая%20диаграмма%20PLT.png)
+![image](https://github.com/user-attachments/assets/032d4ace-329f-4d88-baa8-c01feb7314a2)
 
 ___________________________________________________________________________________________________________________________________________________________________________________________________________
 # Seaborn
-### импортированы библиотеки matplotlib.pyplot, pandas, time. 
-### график создается с помощью нескольких слоев sns.lineplot где в качестве аргументов передается сам датафрейм, в качестве значений координат столбцы
-### Так же добавлены названия осей и графика, plt.title, plt.xlabel, plt.ylabel
-## [посмотреть код Seaborn](https://github.com/AlexandrKuznetsov1/DegreeProject/blob/master/line_graphs/line_graphs_SNS.py)____>>>>____[посмотреть реузльтат](https://github.com/AlexandrKuznetsov1/DegreeProject/blob/master/graphics/Линейный%20график%20SNS.png)
+### импортированы библиотеки matplotlib.pyplot, pandas, seaborn, time. 
+### график создается с использованием функции plt.pie () с параметрами, в качестве основного аргумента data
+## [посмотреть код Seaborn]()____>>>>____[посмотреть реузльтат](https://github.com/AlexandrKuznetsov1/DegreeProject/blob/master/graphics/Линейный%20график%20SNS.png)
 ![image](https://github.com/user-attachments/assets/77644441-63f6-4b8f-8b1d-6c2570ac1dcb)
 
 ___________________________________________________________________________________________________________________________________________________________________________________________________________
