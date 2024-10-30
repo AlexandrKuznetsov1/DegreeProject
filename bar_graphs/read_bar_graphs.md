@@ -9,7 +9,7 @@
 ### Создание каркаса фигуры plt.figure(figsize=(8, 5.5), )
 ### для передачи координат по осям использован метод plt.bar
 ### Так же добавлены названия осей и графика
-## [посмотреть код Matplotlib]()____>>>>____[посмотреть реузльтат](https://github.com/AlexandrKuznetsov1/DegreeProject/blob/master/graphics/3D%20график%20PLT.png)
+## [посмотреть код Matplotlib](https://github.com/AlexandrKuznetsov1/DegreeProject/blob/master/bar_graphs/bar_graphs_PLT.py)____>>>>____[посмотреть реузльтат]()
 ![image](https://github.com/user-attachments/assets/61a7e734-1550-4541-88e2-8738d65fe979)
 _____________________________________________________________________________________________________________________________________________________________________________________________________________ 
 # Seaborn
