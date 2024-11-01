@@ -12,7 +12,7 @@
 ### элементы Axes ax = fig.add_subplot(111, projection='3d',). для построения модели в ax.plot переданы полученные переменные
 ### Так же добавлены цветовые параметры осей и название графика
 ## [посмотреть код Matplotlib](https://github.com/AlexandrKuznetsov1/DegreeProject/blob/master/3D_models/3D_models_PLT.py)____>>>>____[посмотреть реузльтат](https://github.com/AlexandrKuznetsov1/DegreeProject/blob/master/graphics/3D%20график%20PLT.png)
-![image](https://github.com/user-attachments/assets/61a7e734-1550-4541-88e2-8738d65fe979)
+
 _____________________________________________________________________________________________________________________________________________________________________________________________________________ 
 # Seaborn
 ### импортированы библиотеки matplotlib.pyplot, numpy, time. 
@@ -21,7 +21,7 @@ ________________________________________________________________________________
 ### Создание каркаса фигуры plt.figure(figsize=(6, 5))
 ### элементы Axes plt_axis = plt.axes(projection='3d'). для построения модели в ax.plot переданы полученные переменные
 ## [посмотреть код Seaborn](https://github.com/AlexandrKuznetsov1/DegreeProject/blob/master/3D_models/3D_models_SNS.py)____>>>>____[посмотреть реузльтат](https://github.com/AlexandrKuznetsov1/DegreeProject/blob/master/graphics/3D%20график%20SNS.png)
-![image](https://github.com/user-attachments/assets/923e029d-7256-4ffd-9074-6667fff4e950)
+
 ___________________________________________________________________________________________________________________________________________________________________________________________________________
 # Plotly
 ### импортированы библиотеки plotly.graph_objs, numpy, time. 
@@ -30,5 +30,5 @@ ________________________________________________________________________________
 ### Создание фигуры с параметрами fig = go.Figure(data=[go.Scatter3d(x=x, y=y, z=z, mode='markers', marker=dict(size=12, color=z, colorscale='Viridis', opacity=0.8,),),],)
 ### элементы Axes plt_axis = plt.axes(projection='3d'). для построения модели в ax.plot переданы полученные переменные
 ## [посмотреть код Plotly](https://github.com/AlexandrKuznetsov1/DegreeProject/blob/master/3D_models/3D_models_PX.py)____>>>>____[посмотреть реузльтат](https://github.com/AlexandrKuznetsov1/DegreeProject/blob/master/graphics/3D%20график%20РХ.png)
-![image](https://github.com/user-attachments/assets/b4073a79-1ab9-4986-b4d7-99c34289778b)
+
 
