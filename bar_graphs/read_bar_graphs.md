@@ -1,6 +1,7 @@
 <img src = 'https://github.com/AlexandrKuznetsov1/DegreeProject/blob/master/sketh_for_readme/from_bar.gif' width="250">
 
 # Вы перешли в директорию содержащую 3 модуля для построения Столбчатых диаграмм с использованием библиотек Matplotlib, Seaborn и Plotly
+### [Вернуться на главную](https://github.com/AlexandrKuznetsov1/DegreeProject/blob/master/README.md)
 ___________________________________________________________________________________________________________________________________________________________________________________________________________
 ## Для построения столбчатых диаграмм использован файл data_mun_demography_123_v20240612.csv.csv, содержащий общие сведения о численности населения РФ, показателях рождаемости, смертности и миграции:
 ![image](https://github.com/user-attachments/assets/9ea41871-c46b-443c-85fe-197fce78ff95)
@@ -30,4 +31,4 @@ ________________________________________________________________________________
 ### - для передачи Названия графика, названий осей использован метод fig.update_layout
 ### Нажмите "Посмотреть" что-бы увидеть код Plotly и "Результат" чтобы увидеть результат его работы
 ## [>>>Посмотреть](https://github.com/AlexandrKuznetsov1/DegreeProject/blob/master/bar_graphs/bar_graphs_PX.ipynb)_____<<<>>>_____[Результат<<<](https://github.com/AlexandrKuznetsov1/DegreeProject/blob/master/graphics/Столбчатая%20диаграмма%20PX.png)
-
+### [Вернуться на главную](https://github.com/AlexandrKuznetsov1/DegreeProject/blob/master/README.md)
