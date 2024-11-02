@@ -27,5 +27,6 @@ ________________________________________________________________________________
 ### импортированы библиотеки plotly.express, pandas, time. 
 ### Создание фигуры с параметрами fig = px.bar(df, x=a, y=[c, d, e], template="simple_white",)
 ### для передачи Названия графика, названий осей использован метод fig.update_layout
-## [посмотреть код Plotly](https://github.com/AlexandrKuznetsov1/DegreeProject/blob/master/bar_graphs/bar_graphs_PX.py)____>>>>____[посмотреть реузльтат](https://github.com/AlexandrKuznetsov1/DegreeProject/blob/master/graphics/Столбчатая%20диаграмма%20PX.png)
+### Нажмите "Посмотреть" что-бы увидеть код Plotly и "Результат" чтобы увидеть результат его работы
+## [>>>Посмотреть]()_____<<<>>>_____[Результат<<<]()
 
