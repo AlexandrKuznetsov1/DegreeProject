@@ -1,6 +1,7 @@
 <img src = 'https://github.com/AlexandrKuznetsov1/DegreeProject/blob/master/sketh_for_readme/from_line.gif' width="350">
 
 # Вы перешли в директорию содержащую 3 модуля для построения Линейных графиков с использованием библиотек Matplotlib, Seaborn и Plotly
+### [Вернуться на главную](https://github.com/AlexandrKuznetsov1/DegreeProject/blob/master/README.md)
 ___________________________________________________________________________________________________________________________________________________________________________________________________________
 ## Для построения линейных графиков использован файл data_mun_demography_123_v20240612.csv.csv, который содержит общие сведения о численности населения РФ, показателях рождаемости, смертности и миграции:
 ![image](https://github.com/user-attachments/assets/9ea41871-c46b-443c-85fe-197fce78ff95)
@@ -29,3 +30,5 @@ ________________________________________________________________________________
 ### - для установки параметров Названия графика, названий осей использован метод fig.update_layout
 ### Нажмите "Посмотреть" что-бы увидеть код Plotly и "Результат" чтобы увидеть результат его работы
 ## [>>>Посмотреть](https://github.com/AlexandrKuznetsov1/DegreeProject/blob/master/line_graphs/line_graphs_PX.ipynb)_____<<<>>>_____[Результат<<<](https://github.com/AlexandrKuznetsov1/DegreeProject/blob/master/graphics/Линейный%20график%20PX.png)
+### [Вернуться на главную](https://github.com/AlexandrKuznetsov1/DegreeProject/blob/master/README.md)
+
