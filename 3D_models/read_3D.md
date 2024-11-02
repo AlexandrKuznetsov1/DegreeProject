@@ -29,15 +29,16 @@ ________________________________________________________________________________
 ### - переменные для построения графика x_vals = x(t), y_vals = y(t), z_vals = z(t)
 ### Создание каркаса фигуры plt.figure(figsize=(6, 5))
 ### - элементы Axes plt_axis = plt.axes(projection='3d'). для построения модели в ax.plot переданы полученные переменные
-## Нажмите "Посмотреть" что-бы увидеть код matplotlib и результат его работы
-## [Посмотреть])
+## Нажмите "Посмотреть" что-бы увидеть код seaborn и результат его работы
+## [Посмотреть](https://github.com/AlexandrKuznetsov1/DegreeProject/blob/master/3D_models/3D_models_SNS.ipynb)
 ___________________________________________________________________________________________________________________________________________________________________________________________________________
-# Plotly
-### импортированы библиотеки plotly.graph_objs, numpy, time. 
-### для полученияя переменных по координате z создана переменная t = np.linspace(старт 0, стоп 20, количество элементов в выходном массиве 100) 
-### переменные для построения графика x, y, z = np.cos(t), np.sin(t), t
+# Библтотека Plotly
+### - импортированы библиотеки plotly.graph_objs, numpy, time. 
+### - для полученияя переменных по координате z создана переменная t = np.linspace(старт 0, стоп 20, количество элементов в выходном массиве 100) 
+### - переменные для построения графика x, y, z = np.cos(t), np.sin(t), t
 ### Создание фигуры с параметрами fig = go.Figure(data=[go.Scatter3d(x=x, y=y, z=z, mode='markers', marker=dict(size=12, color=z, colorscale='Viridis', opacity=0.8,),),],)
-### элементы Axes plt_axis = plt.axes(projection='3d'). для построения модели в ax.plot переданы полученные переменные
-## [посмотреть код Plotly](https://github.com/AlexandrKuznetsov1/DegreeProject/blob/master/3D_models/3D_models_PX.py)____>>>>____[посмотреть реузльтат](https://github.com/AlexandrKuznetsov1/DegreeProject/blob/master/graphics/3D%20график%20РХ.png)
+### - элементы Axes plt_axis = plt.axes(projection='3d'). для построения модели в ax.plot переданы полученные переменные
+## Нажмите "Посмотреть" что-бы увидеть код seaborn и "Результат" чтобы увидеть результат его работы
+## [Посмотреть]()________[Реузльтат](https://github.com/AlexandrKuznetsov1/DegreeProject/blob/master/graphics/3D%20график%20РХ.png)
 
 
