@@ -13,7 +13,7 @@ ________________________________________________________________________________
 ### Создание каркаса фигуры fig, ax = plt.subplots(figsize=(8, 5.5), layout='constrained', )
 ### - для передачи координат по осям использована функция ax.plot
 ### - добавлены названия осей и графика с использованием ax.set
-## [посмотреть код Matplotlib](https://github.com/AlexandrKuznetsov1/DegreeProject/blob/master/line_graphs/line_graphs_PLT.py)
+## [посмотреть код Matplotlib](https://github.com/AlexandrKuznetsov1/DegreeProject/blob/master/line_graphs/line_graphs_PLT.ipynb)
 ___________________________________________________________________________________________________________________________________________________________________________________________________________
 # Библиотека Seaborn:
 ### - импортированы библиотеки matplotlib.pyplot, pandas, time. 
