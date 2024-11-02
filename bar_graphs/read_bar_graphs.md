@@ -1,4 +1,4 @@
-<img src = 'https://github.com/AlexandrKuznetsov1/DegreeProject/blob/master/sketh_for_readme/from_3D.gif' width="400">
+<img src = 'https://github.com/AlexandrKuznetsov1/DegreeProject/blob/master/sketh_for_readme/from_bar.gif' width="250">
 
 # Вы находитесь в директории содержащей 3 модуля для построения Столбчатых диаграмм с использованием библиотек Matplotlib, Seaborn и Plotly
 ## Для построения столбчатых диаграмм использован файл data_mun_demography_123_v20240612.csv.csv содержащий общие сведения о численности населения РФ, показателях рождаемости, смертности и миграции:
