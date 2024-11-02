@@ -27,7 +27,8 @@ ________________________________________________________________________________
 ### импортированы библиотеки plotly.graph_objs, pandas, time. 
 ### Создание фигуры с использованием функции fig = go.Figure()
 ### для установки параметров fig.add_trace(go.Pie())
-## [посмотреть код Plotly](https://github.com/AlexandrKuznetsov1/DegreeProject/blob/master/pie_charts/pie_chart_PX.py)____>>>>____[посмотреть реузльтат](https://github.com/AlexandrKuznetsov1/DegreeProject/blob/master/graphics/Кольцевая%20диаграмма%20РХ.png)
+### Нажмите "Посмотреть" что-бы увидеть код Plotly и "Результат" чтобы увидеть результат его работы
+## [>>>Посмотреть](https://github.com/AlexandrKuznetsov1/DegreeProject/blob/master/line_graphs/line_graphs_PX.ipynb)_____<<<>>>_____[Результат<<<]()
 
 
 
