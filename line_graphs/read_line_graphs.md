@@ -1,6 +1,6 @@
-<img src = 'https://github.com/AlexandrKuznetsov1/DegreeProject/blob/master/sketh_for_readme/from_bar.gif' width="250">
+<img src = 'https://github.com/AlexandrKuznetsov1/DegreeProject/blob/master/sketh_for_readme/from_line.gif' width="350">
 
-# Вы находитесь в директории содержащей 3 модуля для построения Линейных графиков с использованием библиотек Matplotlib, Seaborn и Plotly
+# Вы перещли в директорию содержащую 3 модуля для построения Линейных графиков с использованием библиотек Matplotlib, Seaborn и Plotly
 ## Для построения линейных графиков использован файл data_mun_demography_123_v20240612.csv.csv содержащий общие сведения о численности населения РФ, показателях рождаемости, смертности и миграции:
 ![image](https://github.com/user-attachments/assets/9ea41871-c46b-443c-85fe-197fce78ff95)
 ## для всех графиков создан датафрейм df = pd.read_csv('data_mun_demography_123_v20240612.csv', sep=';', )
