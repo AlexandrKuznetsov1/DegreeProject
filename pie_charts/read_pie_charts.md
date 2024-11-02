@@ -3,6 +3,7 @@
 <img src = 'https://github.com/AlexandrKuznetsov1/DegreeProject/blob/master/sketh_for_readme/from_pie.gif' width="280">
 
 # Вы перешли в директорию содержащую 3 модуля для построения Круговых диаграмм с использованием библиотек Matplotlib, Seaborn и Plotly
+### [Вернуться на главную](https://github.com/AlexandrKuznetsov1/DegreeProject/blob/master/README.md)
 ___________________________________________________________________________________________________________________________________________________________________________________________________________
 ## Для построения круговых диаграмм использован файл data_mun_demography_123_v20240612.csv.csv, который содержит общие сведения о численности населения РФ, показателях рождаемости, смертности и миграции:
 ![image](https://github.com/user-attachments/assets/9ea41871-c46b-443c-85fe-197fce78ff95)
@@ -30,7 +31,4 @@ ________________________________________________________________________________
 ### для установки параметров fig.add_trace(go.Pie())
 ### Нажмите "Посмотреть" что-бы увидеть код Plotly и "Результат" чтобы увидеть результат его работы
 ## [>>>Посмотреть](https://github.com/AlexandrKuznetsov1/DegreeProject/blob/master/pie_charts/pie_chart_PX.ipynb)_____<<<>>>_____[Результат<<<](https://github.com/AlexandrKuznetsov1/DegreeProject/blob/master/graphics/Кольцевая%20диаграмма%20РХ.png)
-
-
-
-
+### [Вернуться на главную](https://github.com/AlexandrKuznetsov1/DegreeProject/blob/master/README.md)
