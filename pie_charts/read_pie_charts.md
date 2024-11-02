@@ -28,7 +28,7 @@ ________________________________________________________________________________
 ### Создание фигуры с использованием функции fig = go.Figure()
 ### для установки параметров fig.add_trace(go.Pie())
 ### Нажмите "Посмотреть" что-бы увидеть код Plotly и "Результат" чтобы увидеть результат его работы
-## [>>>Посмотреть](https://github.com/AlexandrKuznetsov1/DegreeProject/blob/master/line_graphs/line_graphs_PX.ipynb)_____<<<>>>_____[Результат<<<]()
+## [>>>Посмотреть](https://github.com/AlexandrKuznetsov1/DegreeProject/blob/master/pie_charts/pie_chart_PX.ipynb)_____<<<>>>_____[Результат<<<]()
 
 
 
