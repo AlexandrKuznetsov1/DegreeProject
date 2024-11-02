@@ -39,6 +39,4 @@ ________________________________________________________________________________
 ### Создание фигуры с параметрами fig = go.Figure(data=[go.Scatter3d(x=x, y=y, z=z, mode='markers', marker=dict(size=12, color=z, colorscale='Viridis', opacity=0.8,),),],)
 ### - элементы Axes plt_axis = plt.axes(projection='3d'). для построения модели в ax.plot переданы полученные переменные
 ## Нажмите "Посмотреть" что-бы увидеть код seaborn и "Результат" чтобы увидеть результат его работы
-## [Посмотреть]()________[Реузльтат](https://github.com/AlexandrKuznetsov1/DegreeProject/blob/master/graphics/3D%20график%20РХ.png)
-
-
+## [Посмотреть](https://github.com/AlexandrKuznetsov1/DegreeProject/blob/master/3D_models/3D_models_PX.ipynb)                     [Результат](https://github.com/AlexandrKuznetsov1/DegreeProject/blob/master/graphics/3D%20график%20РХ.png)
